@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 I am a senior at University of California, Berkeley, and I am graduating in 2020 Fall, finally! I am pretty interested in Japanese culture(I watch a lot animes). I do not have bunch hobbies, but I do go hiking sometimes, some random coding during my spare time (mostly iOS apps), and play video games.
-![](/images/scene.jpg =960x)
+![](/images/scene.jpg)
 
 ### Some of my intersting projects
 - I put up a [covid information](https://github.com/rexhanh/Covid_info) app during the summer, but due to Appstore policies, I wasn't able to publish it.
