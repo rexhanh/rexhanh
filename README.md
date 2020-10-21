@@ -24,4 +24,4 @@ I am a senior at University of California, Berkeley, and I am graduating in 2020
 
 - I built a super easy app to recognize the species of a dog and cat, I used Apple's CoreML to train a model. I don't think it's very accurate, [What-the-dog](https://github.com/rexhanh/What-the-dog)
 
-- My robotics class projects [Maze Runner](https://robot-gang.github.io/maze-runner/)
+- My robotics class projects [Maze Runner](https://robot-gang.github.io/maze-runner/ =480x)
