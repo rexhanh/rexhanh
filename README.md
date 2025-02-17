@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I am a senior at University of California, Berkeley, and I am graduating in 2020 Fall, finally! I am pretty interested in Japanese culture(I watch a lot animes). I do not have bunch hobbies, but I do go hiking sometimes, some random coding during my spare time (mostly iOS apps), and play video games.  
 
+I am currently doing my Master of Engineering at University of Toronto! My current project is building a RAG chatbot for APS105 at the University of Toronto.
 
 ### Some of my interesting projects
-- I put up a [covid information](https://github.com/rexhanh/Covid_info) app. Due to Appstore policies it was not published.
 
-- My robotics class projects [Maze Runner](https://robot-gang.github.io/maze-runner/)
+- Chatbot for APS105 at University of Toronto [Chatbot Link](https://learningc.org)
 
-- My personal website: [Link](https://rexhanh.github.io)
+- Terminal based stock tracking app with Rust [Project Link](https://github.com/rexhanh/1724_final_project)
 
 If you have any questions, please contact me at <rex.han@berkeley.edu>
