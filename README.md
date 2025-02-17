@@ -17,10 +17,21 @@ Here are some ideas to get you started:
 
 I am currently doing my Master of Engineering at University of Toronto! My current project is building a RAG chatbot for APS105 at the University of Toronto.
 
-### Some of my interesting projects
+### Some of my current interesting projects
 
-- Chatbot for APS105 at University of Toronto [Chatbot Link](https://learningc.org)
+- Chatbot for APS105 at University of Toronto
+  [Chatbot Link](https://learningc.org)
+  [Project Link](https://github.com/salma-emara/aps105-book)
 
-- Terminal based stock tracking app with Rust [Project Link](https://github.com/rexhanh/1724_final_project)
+- Terminal based stock tracking app with Rust
+  [Project Link](https://github.com/rexhanh/1724_final_project)
+
+### Some of my other projects
+
+- I put up a [covid information](https://github.com/rexhanh/Covid_info) app. Due to Appstore policies it was not published.
+
+- My robotics class projects
+  [Maze Runner](https://robot-gang.github.io/maze-runner/)
+- My personal website: [Link](https://rexhanh.github.io)
 
 If you have any questions, please contact me at <rex.han@berkeley.edu>
