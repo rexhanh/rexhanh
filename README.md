@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am currently doing my Master of Engineering at University of Toronto! My current project is building a RAG chatbot for APS105 at the University of Toronto.
+I am currently doing my Electrical and Computer Engineering Master of Engineering degree at University of Toronto! My current project is building a RAG chatbot for APS105 at the University of Toronto.
 
 ### Some of my current interesting projects
 
 - Chatbot for APS105 at University of Toronto
   [Chatbot Link](https://learningc.org)
   [Project Link](https://github.com/salma-emara/aps105-book)
+
+- My personal Website
+  Try ask some questions on the chatbot!😄
+  [www.rex-han.com](https://rex-han.com)
 
 - Terminal based stock tracking app with Rust
   [Project Link](https://github.com/rexhanh/1724_final_project)
