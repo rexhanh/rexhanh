@@ -37,4 +37,9 @@ I am currently doing my Electrical and Computer Engineering Master of Engineerin
 - My robotics class projects
   [Maze Runner](https://robot-gang.github.io/maze-runner/)
 
+- QuickLit
+  
+  [Repo Link](https://github.com/ece1786-2025/QuickLit)
+  [QuickLit](https://www.quick-lit.com)
+
 If you have any questions, please contact me at <rex.han@berkeley.edu>
