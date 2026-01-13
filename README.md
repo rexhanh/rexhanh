@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am currently doing my Electrical and Computer Engineering Master of Engineering degree at University of Toronto! My current project is building a RAG chatbot for APS105 at the University of Toronto.
+I am currently doing my Electrical and Computer Engineering Master of Engineering degree at University of Toronto!
 
 ### Some of my current interesting projects
 
@@ -36,6 +36,5 @@ I am currently doing my Electrical and Computer Engineering Master of Engineerin
 
 - My robotics class projects
   [Maze Runner](https://robot-gang.github.io/maze-runner/)
-- My personal website: [Link](https://rex-han.com)
 
 If you have any questions, please contact me at <rex.han@berkeley.edu>
