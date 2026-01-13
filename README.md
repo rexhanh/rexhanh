@@ -36,6 +36,6 @@ I am currently doing my Electrical and Computer Engineering Master of Engineerin
 
 - My robotics class projects
   [Maze Runner](https://robot-gang.github.io/maze-runner/)
-- My personal website: [Link](https://rexhanh.github.io)
+- My personal website: [Link](https://rex-han.com)
 
 If you have any questions, please contact me at <rex.han@berkeley.edu>
