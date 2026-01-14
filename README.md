@@ -30,16 +30,16 @@ I am currently doing my Electrical and Computer Engineering Master of Engineerin
 - Terminal based stock tracking app with Rust
   [Project Link](https://github.com/rexhanh/1724_final_project)
 
+- QuickLit
+  A quick paper research summary tool.
+  
+  [Repo Link](https://github.com/ece1786-2025/QuickLit)
+  [QuickLit](https://www.quick-lit.com)
 ### Some of my other projects
 
 - I put up a [covid information](https://github.com/rexhanh/Covid_info) app. Due to Appstore policies it was not published.
 
 - My robotics class projects
   [Maze Runner](https://robot-gang.github.io/maze-runner/)
-
-- QuickLit
-  
-  [Repo Link](https://github.com/ece1786-2025/QuickLit)
-  [QuickLit](https://www.quick-lit.com)
 
 If you have any questions, please contact me at <rex.han@berkeley.edu>
